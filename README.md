@@ -32,7 +32,7 @@ I enjoy building efficient, scalable, and modern applications while continuously
  
 <br>
 
-### Education
+### 👩‍💻 Education
 <div align="center">
   
 | Degree | University | Year |
