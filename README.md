@@ -47,8 +47,8 @@ I enjoy building efficient, scalable, and modern applications while continuously
 <div align="center">
   
 - 🚀 0+ Years Experience
-- 📁 4+ Projects Completed
-- 💻 6+ Technologies Mastered
+- 📁 3+ Projects Completed
+- 💻 4+ Technologies Mastered
   
 </div>
  
