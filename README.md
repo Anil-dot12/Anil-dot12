@@ -73,10 +73,18 @@ I enjoy building efficient, scalable, and modern applications while continuously
 </div>
 
 ## Connect With Me
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lina-alshehrii)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Anil_CS)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:launna2004@gmail.com)
 
+<div align="center">
+
+  <a href="https://x.com/anil__cs?s=11">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=404040&color=404040" alt="X">
+  </a>  <a href="https://linkedin.com/in/lina-alshehrii">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00A8E8&color=00A8E8" alt="LinkedIn">
+  </a> <a href="https://t.me/Anil_CS">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=007ACC&color=007ACC" alt="Telegram">
+  </a> <a href="mailto:launna2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+ 
 </div>
+
