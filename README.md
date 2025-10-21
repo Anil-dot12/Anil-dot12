@@ -29,18 +29,18 @@ Software Engineer | Web Developer | UI/UX Designer | Data Analyst | Front-End & 
 I am a Computer Science graduate passionate about software engineering and web development.  
 I enjoy building efficient, scalable, and modern applications while continuously improving my skills.
  
----
+<br>
 
 ### Education
 <div align="center">
   
 | Degree | University | Year |
 |------|----------|-----|
-| Bachelor of Computer Science	| King Khalid University | 2022-2026 |
+| Bachelor of Computer Science	| King Khalid University | 2022 - 2026 |
 
  </div>
  
----
+<br>
 
 ### Quick Facts
 <div align="center">
@@ -51,7 +51,7 @@ I enjoy building efficient, scalable, and modern applications while continuously
   
 </div>
  
----
+<br>
 
 ### Technical Skills
 
