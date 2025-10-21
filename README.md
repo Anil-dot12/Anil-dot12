@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Lina Alshehri
+#  Lina Alshehri
 
 Software Engineer | Web Developer | UI/UX Designer | Data Analyst | Front-End & Data Visualization <br>
 <div align="center">
@@ -24,10 +24,11 @@ Software Engineer | Web Developer | UI/UX Designer | Data Analyst | Front-End & 
  
  </div>
 
-## About Me
+## 🔭 About Me
 
 I am a Computer Science graduate passionate about software engineering and web development.  
 I enjoy building efficient, scalable, and modern applications while continuously improving my skills.
+ 🌱 I’m currently learning Artificial Intelligence & Data Science
  
 <br>
 
@@ -42,7 +43,7 @@ I enjoy building efficient, scalable, and modern applications while continuously
  
 <br>
 
-### Quick Facts
+### ⚡Quick Facts
 <div align="center">
   
 - 🚀 0+ Years Experience
@@ -74,7 +75,7 @@ I enjoy building efficient, scalable, and modern applications while continuously
 
 </div>
 
-## Connect With Me
+## 📫Connect With Me
 
 <div align="center">
 
