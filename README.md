@@ -24,13 +24,12 @@ Software Engineer | Web Developer | UI/UX Designer | Data Analyst | Front-End & 
  
  </div>
 
- 
----
-
 ## About Me
 
 I am a Computer Science graduate passionate about software engineering and web development.  
 I enjoy building efficient, scalable, and modern applications while continuously improving my skills.
+ 
+---
 
 ### Education
 <div align="center">
@@ -41,6 +40,8 @@ I enjoy building efficient, scalable, and modern applications while continuously
 
  </div>
  
+---
+
 ### Quick Facts
 <div align="center">
   
@@ -49,7 +50,8 @@ I enjoy building efficient, scalable, and modern applications while continuously
 - 💻 3+ Technologies Mastered
   
 </div>
-
+ 
+---
 
 ### Technical Skills
 
